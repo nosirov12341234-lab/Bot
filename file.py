@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-php_define("API_KEY", "https://t.me/education_coders")
+php_define("8290934275:AAG8nhKC6U6mIcVJgGSPNNkAF60AXDgiets", "https://t.me/education_coders")
 #// token qoyes.manba: @education_coders dasturchi: @muzadev tahrichi:@uzder_php  @education_coders kanali orqali tarqatildi!!! manba bilan olmagan kut!!!
-admin_ = "6246669464"
+admin_ = "8215108926"
 #// admin id qoyas manba: @education_coders dasturchi: @muzadev tahrichi:@uzder_php  @education_coders kanali orqali tarqatildi!!! manba bilan olmagan kut!!!
 #// manba: @education_coders
 #// dasturchi: @muzadev. tahrirchi:@uzder_php. @education_coders kanali orqali tarqatildi!!! manba bilan olmagan kut!!!
